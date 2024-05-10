@@ -30,3 +30,5 @@ Cliente e Ordem de Serviço: Uma ordem de serviço está associada a um cliente 
 Mecânico e Serviço: Um mecânico pode executar muitos serviços (1:N).
 Ordem de Serviço e Serviço: Uma ordem de serviço pode conter muitos serviços (1:N).
 Ordem de Serviço e Peça: Uma ordem de serviço pode incluir muitas peças (1:N).
+
+![MECÂNICA](https://github.com/matheusalx/DESAFIO-OFICINA/assets/15674874/6edd5d2a-8e06-4b26-a9b5-92c50725b463)
